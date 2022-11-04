@@ -1,0 +1,31 @@
+1. Class JSONHelper
+	Methods to manipulate JSON file:
+		read
+		write
+		update/modify
+		delete
+1b. testJSONHelper -- test uses index, detail, create, modify, and delete 
+
+2. Class CSVHelper
+	Methods to manipulate csv file:
+		read
+		write
+		update/modify
+		delete
+2b. testCSVHelper -- test uses index, detail, create, modify, and delete 
+
+3. Class AuthHelper
+	Methods to manage authentication:
+		signUp
+		logIn
+		logOut
+		checkStatus
+		getUinfo
+3b. testAuthHelper -- test uses
+
+4. Class Entity
+	Methods to handle data in CSV/JSON files:
+		create
+		modify
+		delete
+4b. testEntity -- test uses index, detail, create, modify, and delete 
